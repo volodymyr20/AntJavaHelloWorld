@@ -7,10 +7,10 @@
 
 **How to build**
 * clone this repository locally 
-* cd to <repository dir>
+* cd to \<repository dir\>
 * ant
 
 **How to run**
 * cd \dist\lib
-* java -jar HelloWorld<YYYYMMDD>.jar
+* java -jar HelloWorld\<YYYYMMDD\>.jar
 
