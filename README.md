@@ -10,7 +10,7 @@
 * cd to <repository dir>
 * ant
 
-**How to run **
+**How to run**
 * cd \dist\lib
 * java -jar HelloWorld<YYYYMMDD>.jar
 
