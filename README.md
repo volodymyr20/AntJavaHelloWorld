@@ -6,7 +6,7 @@
 * GIT CMD client is installed (like GIT BASH)
 
 **How to build**
-* close this repository locally 
+* clone this repository locally 
 * cd to <repository dir>
 * ant
 
