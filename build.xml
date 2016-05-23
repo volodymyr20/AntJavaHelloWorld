@@ -26,7 +26,7 @@
     <mkdir dir="${dist}/lib"/>
 
     <!-- Put everything in ${bin} into the MyProject-${DSTAMP}.jar file -->
-    <jar jarfile="${dist}/lib/MyProject-${DSTAMP}.jar" basedir="${bin}" >
+    <jar jarfile="${dist}/lib/HelloWorld-${DSTAMP}.jar" basedir="${bin}" >
         <manifest>
             <!-- create an executable Jar -->
             <attribute name="Main-Class" value="helloWorld.HelloWorld" />
