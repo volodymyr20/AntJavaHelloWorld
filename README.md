@@ -1,6 +1,6 @@
 **This is an example of how to build Java executable with Ant**
 
-**Prerequisites**
+**Prerequisites** 
 * JDK 1.7+ is installed and %JAVA_HOME%\bin added to PATH
 * ANT 1.8+ is installed (code.google.com/p/winant/)
 * GIT CMD client is installed (like GIT BASH)
